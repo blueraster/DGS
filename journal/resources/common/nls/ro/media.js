@@ -56,13 +56,15 @@
 				howToFind: "Cum găsiţi un nume de utilizator YouTube",
 				howToFind2: "Numele de utilizator este afişat sub videoclipuri",
 				found: "Găsit",
-				noData: "Nu a fost găsit niciun videoclip public"
+				noData: "Nu a fost găsit niciun videoclip public",
+				videoNotChecked: "Clipul video nu a fost verificat pe YouTube, dar adresa pare bună.",
+				checkFailedAPI: "Verificarea YouTube a eşuat, verificaţi cheia API de YouTube."
 			},
 			videoSelectorVimeo: {
 				url: "URL al unui clip video de pe Vimeo"
 			},
 			videoSelectorOther: {
-				explain1: "Aplicaţia nu poate reda clipuri video brute (de ex., avi, mpeg) însă poate reda fişiere video găzduite, care au aplicaţii de redare încorporate (de ex., YouTube sau Vimeo).",
+				explain1: "Povestea nu poate reda clipuri video brute (de ex., avi, mpeg) însă poate reda fişiere video găzduite, care au aplicaţii de redare încorporate (de ex., YouTube sau Vimeo).",
 				explain2: "Majoritatea serviciilor de găzduire video online oferă această funcţie; trebuie să găsiţi opţiunea de a încorpora clipul video, copiaţi codul dat şi utilizaţi %WEBPAGE%.",
 				explain3: "Alternativ, dacă doriţi să găzduiţi voi înşivă clipul video, puteţi crea o pagină HTML care să utilizeze o aplicaţie de redare video, cum ar fi %EXAMPLE%, găzduiţi pagina şi utilizaţi %WEBPAGE%.",
 				webpage: "Obiect spaţial pagină web"
@@ -100,7 +102,7 @@
 				lblPosition3Explain2: "(lăţimea va corespunde întotdeauna panoului)",
 				lblPosition4Explain: "(poate fi distorsionat)",
 				unloadLbl: "Se revocă încărcarea când cititorul trece în altă secţiune",
-				unloadHelp: "Dacă pagina web conţine materiale audio sau video, păstraţi această opţiune bifată pentru a opri redarea în momentul în care cititorul trece în altă secţiune. Debifaţi-o, de exemplu, pentru a continua redarea unei melodii când cititorul avansează în jurnal.<br />Dacă pagina web este o aplicaţie, debifaţi această opţiune pentru ca aplicaţia să nu fie nevoită să se încarce din nou când cititorul revine în secţiunea respectivă."
+				unloadHelp: "Dacă pagina web conţine materiale audio sau video, păstraţi această opţiune bifată pentru a opri redarea în momentul în care cititorul trece în altă secţiune. Debifaţi-o, de exemplu, pentru a continua redarea unei melodii când cititorul avansează în jurnal.<br />Dacă pagina web este o aplicaţie, debifaţi această opţiune pentru ca povestea să nu fie nevoită să se încarce din nou când cititorul revine în secţiunea respectivă."
 			},
 			editorActionGeocode: {
 				lblTitle: "Localizaţi o adresă sau un loc",

@@ -56,13 +56,15 @@
 				howToFind: "Cách tìm tên đăng nhập Youtube",
 				howToFind2: "Tên đăng nhập được hiển thị dưới video",
 				found: "Tìm thấy",
-				noData: "Không tìm thấy video công khai"
+				noData: "Không tìm thấy video công khai",
+				videoNotChecked: "Video chưa được kiểm tra trên YouTube nhưng địa chỉ của nó có vẻ ổn.",
+				checkFailedAPI: "Kiểm tra YouTube thất bại, vui lòng kiểm tra khóa API của YouTube."
 			},
 			videoSelectorVimeo: {
 				url: "URL của một video trên Vimeo"
 			},
 			videoSelectorOther: {
-				explain1: "Ứng dụng không thể phát các video thô (ví dụ: avi, mpeg) nhưng nó có thể phát các tệp video được lưu trữ có trình phát tích hợp (ví dụ: YouTube hoặc Vimeo).",
+				explain1: "Câu chuyện không thể phát các video thô (ví dụ: avi, mpeg) nhưng nó có thể phát các tệp video được lưu trữ có trình phát tích hợp (ví dụ: YouTube hoặc Vimeo).",
 				explain2: "Hầu hết dịch vụ lưu trữ video trực tuyến đều cung cấp tính năng này, bạn cần phải tìm tùy chọn để nhúng video, sao chép mã đã cung cấp và sử dụng %WEBPAGE%.",
 				explain3: "Ngoài ra, nếu bạn muốn tự lưu trữ video, bạn có thể tạo một trang HTML sử dụng một trình phát video như %EXAMPLE%, lưu trữ trang đó và cũng sử dụng %WEBPAGE%.",
 				webpage: "Tính năng của trang web"
@@ -100,7 +102,7 @@
 				lblPosition3Explain2: "(chiều rộng sẽ luôn luôn vừa với bảng điều khiển)",
 				lblPosition4Explain: "(có thể bóp méo)",
 				unloadLbl: "Không tải khi người đọc điều hướng ra ngoài",
-				unloadHelp: "Nếu Trang Web có phương tiện âm thanh hoặc video, tiếp tục chọn tùy chọn này để dừng phát nội dung đó khi người đọc điều hướng ra ngoài. Ví dụ: bỏ chọn để tiếp tục phát rãnh âm thanh khi trình đọc chuyển qua câu chuyện.<br />Nếu Trang Web là một ứng dụng, bỏ chọn tùy chọn này để ứng dụng không tải lại nếu người đọc quay lại."
+				unloadHelp: "Nếu Trang Web có phương tiện âm thanh hoặc video, tiếp tục chọn tùy chọn này để dừng phát nội dung đó khi người đọc điều hướng ra ngoài. Ví dụ: bỏ chọn để tiếp tục phát rãnh âm thanh khi trình đọc chuyển qua câu chuyện.<br />Nếu Trang Web là một ứng dụng, bỏ chọn tùy chọn này để câu chuyện không tải lại nếu người đọc quay lại."
 			},
 			editorActionGeocode: {
 				lblTitle: "Định vị một địa chỉ hoặc địa điểm",
