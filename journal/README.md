@@ -12,7 +12,7 @@
   4. Make sure Type is set to "Web Mapping",  Purpose is set to "Ready To Use", and API is set to "JavaScript" 
   5. For URL, write in the following: <br>
       <em>For a Map Journal:</em>  https://blueraster.github.io/DGS/journal/index.html?appid=
-      <em>For a Map Series:</em>   https://blueraster.github.io/DGS/series/index.html?appid=<br> 
+    <em>For a Map Series:</em>   https://blueraster.github.io/DGS/series/index.html?appid=<br> 
                 and then paste in the AppID you copied 
   6. Give your new map a title and tags and then press "Add Item"
     
